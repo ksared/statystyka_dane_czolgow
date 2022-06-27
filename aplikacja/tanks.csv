@@ -1,0 +1,19 @@
+Model Name,Origin Country,Crew,Range (km),Max Road Speed (km/hr),Power-to-weight ratio (h.p./t),Length (m),Width (m),Height (m),Engine Power (hp),Engine Type,Weight (in Tons),Gradient (in %),Side Slope (in %),Vertical Step (m),Trench (m),Fording (m),Fording (with preparation),Depression (Elevation Min),Elevation (Elevation Max),Traverse Range,Manufactured By,Launch Year,Main Weapon Caliber,Ammunition Main Weapon,Auxiliary Gun Caliber,Ammunition Auxiliary Gun,AA Gun Caliber,Ammunition AA Gun
+MB-3 Tamoyo,Brazil,4,550,67,18.18,8.76,3.2,2.5,500,diesel,30,60,30,0.7,2.4,1.3,?,6,18,360,Bernardini S/A Industria e Comercio,1983,90,68,7.62,3000,7.62,3000
+Leopard C2,West Germany,4,600,65,21.43,9.5,3.37,2.7,830,diesel,42.2,60,40,1.15,3,2.25,4,9,20,360,Porsche,1956,105,51,7.62,2750,7.62,2750
+Leopard 2A4M CAN,West Germany,4,400,68,26.16,9.61,3.75,3,1500,diesel,62.3,60,30,1.15,3,1,4,9,20,360,Krauss-Maffei,1970,120,42,7.62,2375,7.62,2375
+VT-4,China,3,500,70,25,10.1,3.4,2.3,1300,diesel,52,60,40,0.85,2.8,1.2,NA,NA,NA,360,Norinco,2014,125,38,7.62,3000,12.7,500
+MBT-3000,China,3,500,70,25,10.1,3.4,2.3,1300,diesel,52,60,40,1.2,2.7,1.2,4.5,NA,NA,360,Norinco,2014,125,38,7.62,3000,12.7,500
+Type 99,China,3,600,80,27.78,11,3.7,2.35,1500,diesel,51,60,40,0.8,3,1.2,5,NA,NA,360,Norinco,1998,125,41,7.62,2000,12.7,300
+Type 96,China,3,400,65,18,11,3.45,2.3,1500,diesel,42.8,60,40,0.8,3,1.2,5,4,12,360,First Inner Mongolia Machinery Factory,1997,125,42,7.62,2250,12.7,500
+Type-90 II,China,3,500,72,26,10.28,3.5,2.4,1200,diesel,46,60,40,0.85,2.7,1.4,5,6,16,360,Norinco,1993,125,39,12.7,NA,7.62,NA
+Type 80,China,4,400,57.25,NA,9.33,3.372,2.29,730,diesel,39.5,60,40,0.8,2.7,1.4,?,4,18,360,First Inner Mongolia Machinery Factory,1970,105,44,12.7,500,7.62,2250
+M-95 Degman,Croatia,3,700,72,27,10.14,3.6,2.2,1000,diesel,44.5,58,40,0.85,2.7,1.5,5,6,13,360,Duro Dacovic specijalna vozilad.d.,1995,125,42,12.7,360,7.62,2000
+T-72,Soviet Union,3,460,60,18.8,9.8,3.59,2.23,1000,diesel,41.5,60,40,0.83,2.7,1.2,5,5,14,360,Uralvagonzavod,1970,125,37,7.62,2100,12.7,720
+Jaguar,China,4,540,55,17.9,9.6,3.27,2.63,750,Diesel,41.7,60,30,0.8,2.7,1.4,4.5,4,17,360,Textron Marine & Land Systems,1988,105,34,7.62,3500,12.7,600
+Arjun Mk.2,India,4,400,58,,10.64,3.95,2.8,1400,Diesel,68,70,30,0.9,2.4,1.4,2.15,9,20,360,Combat,2004,120,39,7.62,3000,12.7,1000
+Leclerc,France,3,550,71,27.52,9.87,3.6,2.53,1500,diesel,54.5,60,30,1.25,3,1,4,8,15,300,GIAT Industries (now Nexter),1983,120,40,12.7,NA,7.62,NA
+AMX-40,France,4,550,70,25.6,10.05,3.18,2.38,1100,diesel,43,60,30,1,3.2,1.3,4,8,15,360,AMX-APX and GIAT,1983,120,40,20,578,7.62,2170
+AMX-32,France,4,530,65,20,9.45,3.1,2.29,720,diesel,38,60,30,0.9,2.9,1.3,4,8,15,360,NA,1977,105,47,20,480,7.62,2160
+AMX-30,France,4,600,65,18.9,9.5,3.1,2.28,720,diesel,36,60,30,0.93,2.9,1.3,4,8,20,360,NA,1959,105,47,20,1050,7.62,2050
+Revolution,West Germany,4,400,68,23.7,9.7,3.75,3,1500,diesel,62.3,60,30,1.15,3,1,4,9,20,360,Krauss-Maffei Wegmann Maschinenbau Kiel,1970,120,42,7.62,NA,12.7,NA
